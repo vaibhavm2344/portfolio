@@ -17,9 +17,4 @@ A sleek and responsive personal portfolio website showcasing projects, skills, a
 - **HTML5** – Structured content  
 - **CSS3** – Styled components  
 - **JavaScript** – Interactive elements  
-- **Bootstrap/Tailwind** (if used) – Responsive layout  
-
-### **🔗 Live Demo**  
-👉 **[yourusername.github.io/your-portfolio](https://yourusername.github.io/your-portfolio/)**  
-
-Let me know if you need changes! 🚀
+- **Bootstrap/Tailwind** Responsive layout
